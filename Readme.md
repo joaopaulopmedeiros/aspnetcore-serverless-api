@@ -10,4 +10,4 @@ Project to show how to build serverless rest apis with ASP .NET Core.
 
 
 # Results
-<img src="./docs/postman.png">
+<img src="./docs/insomnia.png">
